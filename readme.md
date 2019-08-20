@@ -63,6 +63,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
 
 ### Web
+- [Desmos](https://www.desmos.com) - 2D Graphing Calculator.
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
